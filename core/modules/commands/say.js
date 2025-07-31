@@ -1,6 +1,7 @@
 module.exports = {
   config: {
     name: "say",
+    description: "Echoes your message and mentions you.",
     author: "Rui Reogo",
     hasPrefix: true,
     needAdmin: false
