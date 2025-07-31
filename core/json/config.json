@@ -1,0 +1,16 @@
+{
+  "botPrefix": "/",
+  "botAdmins": [],
+  "credentials": {
+    "useCookie": "true",
+    "email": "",
+    "password": ""
+  },
+  "fcaOptions": {
+    "online": true,
+    "updatePresence": true,
+    "selfListen": false,
+    "randomUserAgent": false,
+    "logging": false
+  }
+}
