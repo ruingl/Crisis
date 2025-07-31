@@ -2,12 +2,19 @@ const { login } = require("ws3-fca");
 const utils = require("../utils");
 const figlet = require("figlet");
 const chalk = require("chalk");
+const path = require("path");
 const fs = require("fs");
 
 const ctx = {
   get config() {
-    return JSON
-      .parse(fs.readFileSync("../json/config.json", "utf8"));
+    return JSON.parse(fs.readFileSync(path.join(
+      __dirname, "../json/config.json"
+    ), "utf8"));
+  },
+  get cookie() {
+    return JSON.parse(fs.readFileSync(path.join(
+      __dirname, "../json/cookie.json"
+    ), "utf8"));
   },
 
   commands: new Map(),
@@ -43,19 +50,19 @@ async function setup() {
 function main() {
   const credentials = {};
   if (ctx.config.credentials.useCookie) {
-    credentials.appState = JSON.parse(fs.readFileSync("../json/cookie.json"));
+    credentials.appState = ctx.cookie;
   } else {
     credentials.email = ctx.config.credentials.email;
     credentials.password = ctx.config.credentials.password;
   };
 
   login(credentials, ctx.config.fcaOptions, (err, api) => {
-    if (err) return utils.error(err.error);
+    if (err) return utils.error(err);
     
     utils.info("Logged in!");
 
     api.listenMqtt(async (err, event) => {
-      if (err) return utils.error(err.error);
+      if (err) return utils.error(err);
 
       if (utils.type !== "message") return;
       if (!utils.body) return;

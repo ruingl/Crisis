@@ -4,7 +4,7 @@ module.exports = {
     description: "Testing command.",
     author: "Rui Reogo",
     hasPrefix: true,
-    //needAdmin: false,
+    needAdmin: false,
   },
   run: async ({ api, event, args }) => {
     api.sendMessage("Hello!", event.threadID, event.messageID);
