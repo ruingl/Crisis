@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: "say",
-    description: "Echoes your message and mentions you.",
+    description: "Repeats messages sent from bot.",
     author: "Rui Reogo",
     hasPrefix: true,
     needAdmin: false
