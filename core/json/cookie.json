@@ -1,1 +1,155 @@
-[]
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261574858855564%22%3A%22jyxcRI8M%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "fr",
+		"value": "0LfQHlhxCE3Q7DpiR.AWe6plLQq-3i8KlmGsF_PAJkl5Pk2eV3F4EinBf-SHfNAIwPoY4.BoW1n-..AAA.0.0.Boi2g8.AWfRbBKao_0n-qj63ueikitFWGI",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "sb",
+		"value": "_llbaMUXcvruLwfXZfnTqtGi",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "datr",
+		"value": "_llbaH_gRACMbWWC9toWUmVX",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A2883%3Btimestamp%3A1753966652",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B727x378x3.3333333333333335",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "pas",
+		"value": "61574858855564%3A95Rk3r5Vn6",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61574858855564",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "xs",
+		"value": "44%3AEzW034fa9WkXjA%3A2%3A1751812155%3A-1%3A-1%3A4P_XLeFxgaHMVw",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "fbl_st",
+		"value": "100426912%3BT%3A29232777",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "b_user",
+		"value": "61578116333628",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "x-src",
+		"value": "%2Fapps%2F783926477295759%2Fmessenger%2Fmessenger_api_settings%2F%7Cdeveloper_app_body",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "locale",
+		"value": "en_US",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "wd",
+		"value": "980x1885",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	},
+	{
+		"key": "dpr",
+		"value": "3.3333333333333335",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-31T12:57:43.070Z",
+		"lastAccessed": "2025-07-31T12:57:43.070Z"
+	}
+]
